@@ -4,16 +4,12 @@
         <% if logged_in? %>
           <li><%= link_to "Profile", student_path(current_user) %></li>
         <% end %>
-        <li class="divider"></li>
-        <li><a href="#!">three</a></li>
       </ul>
       <ul id="dropdown2" class="dropdown-content">
         <li><%= session_link %></li>
         <% if logged_in? %>
-          <li><%= link_to "rofile", student_path(current_user) %></li>
-        <% end %>        
-        <li class="divider"></li>
-        <li><a href="#!">three</a></li>
+          <li><%= link_to "Profile", student_path(current_user) %></li>
+        <% end %>  
       </ul>
       <nav>
         <div class="container">
