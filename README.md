@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Followed along in Udemy Course: JavaScript and Ruby on Rails with React, Angular, and Vue
+* created a university app on Ruby on Rails where students could view course catalogues, login and register for courses.
+* created databases for courses, students and student_courses using sqlite
+* used materialize for css framework
