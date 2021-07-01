@@ -18,6 +18,7 @@ Dynamic navigation bar that displays different options based on whether the user
 <img width="325" alt="Screen Shot 2021-06-30 at 7 08 30 PM" src="https://user-images.githubusercontent.com/42496709/124062107-059f5b80-d9e5-11eb-8504-08e54faf6b42.png">
 
 Signup:
+
 <img width="897" alt="Screen Shot 2021-06-30 at 7 07 37 PM" src="https://user-images.githubusercontent.com/42496709/124062265-47300680-d9e5-11eb-93c3-41df4692f0c1.png">
 
 
